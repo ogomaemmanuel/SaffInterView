@@ -1,0 +1,14 @@
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.csproj.CoreCompileInputs.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.AssemblyInfoInputs.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.AssemblyInfo.cs
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\SafApp.deps.json
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\SafApp.runtimeconfig.json
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\SafApp.runtimeconfig.dev.json
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\SafApp.dll
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.csprojAssemblyReference.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.RazorAssemblyInfo.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.RazorAssemblyInfo.cs
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.RazorTargetAssemblyInfo.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\SafApp.pdb
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.dll
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\SafApp.pdb

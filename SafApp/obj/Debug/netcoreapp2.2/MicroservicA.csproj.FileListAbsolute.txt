@@ -1,0 +1,14 @@
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.csprojAssemblyReference.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.csproj.CoreCompileInputs.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.RazorAssemblyInfo.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.RazorAssemblyInfo.cs
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.AssemblyInfoInputs.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.AssemblyInfo.cs
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\MicroservicA.deps.json
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\MicroservicA.runtimeconfig.json
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\MicroservicA.runtimeconfig.dev.json
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\MicroservicA.dll
+C:\Users\OMEN15\source\repos\SafApp\SafApp\bin\Debug\netcoreapp2.2\MicroservicA.pdb
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.RazorTargetAssemblyInfo.cache
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.dll
+C:\Users\OMEN15\source\repos\SafApp\SafApp\obj\Debug\netcoreapp2.2\MicroservicA.pdb
